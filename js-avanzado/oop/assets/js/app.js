@@ -1,3 +1,5 @@
+// abstracto, hacer a un lado todo lo que no sirve
+
 // clases, molde que nos permite crear objetos
 
 class Animal{
